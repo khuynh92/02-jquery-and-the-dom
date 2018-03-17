@@ -5,4 +5,10 @@ body {
 
 img {
   max-width: 100%;
+  display: block;
+}
+
+main {
+  width: 70%;
+  margin: auto;
 }
