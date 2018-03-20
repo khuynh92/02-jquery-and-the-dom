@@ -8,6 +8,11 @@
   clear: both;
 }
 
+.nav-center {
+  max-width: 960px;
+  margin: auto;
+}
+
 a {
   text-decoration: none;
   color: gray;
@@ -17,6 +22,7 @@ a {
   display: none;
   list-style-type: none;
   padding-left: 1%;
+  /* margin: auto; */
   margin-top: 0%;
 }
   
