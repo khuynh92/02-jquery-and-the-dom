@@ -6,9 +6,10 @@ body {
 img {
   max-width: 100%;
   display: block;
+  margin: auto;
 }
 
 main {
-  width: 70%;
+  max-width: 960px;
   margin: auto;
 }
